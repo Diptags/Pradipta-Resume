@@ -4,7 +4,7 @@ Created by: Pradipta Gitaya with love
 ![License Status](https://badges.frapsoft.com/os/mit/mit.svg?v=102)
 [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-[Source Code Link](https://github.com/Diptags/Simple-CV/)
+[Source Code Link](https://github.com/Diptags/Pradipta-Resume)
 
 Hello, this is my project as a requirement for RISTEK Fasilkom UI's task for
 becoming a junior member of Web Development SIG. Here's my identity
