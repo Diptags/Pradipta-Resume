@@ -1,0 +1,38 @@
+
+Nama	: Rd Pradipta Gitaya S
+NIM	: 1706043361
+Major	: Sistem Informasi 2017
+
+Kumpulan file ini merupakan kumpulan file untuk Tugas Eksplorasi
+
+Source code ini dapat dilihat di:
+https://github.com/Diptags/Pradipta-Resume
+
+Selain itu, akses ke website sudah dapat dilakukan dengan alamatnya adalah:
+https://cvpradipta.herokuapp.com
+
+Jadi tidak perlu mencoba akses dengan server lokal yang sedikit merepotkan tentunya.
+
+Saya memilih heroku untuk tugas personal, karena di sana lebih praktis untuk deploy dengan terhubung dengan GitHub
+
+File README.md juga boleh dibaca, itu adalah file README untuk di GitHub
+---------------------------------------------------------------------------------
+
+Untuk menjalankan web ini secara normal, pastikan semua file berada dalam satu folder.
+Kemudian untuk membuka hasil secara offline, cukup jalankan file:
+
+home.html
+
+(Nanti akan ada launcher menuju ke CV Statis / CV Dinamis)
+
+Untuk CV versi statis bisa menjalankan file:
+
+static-resume.html
+
+Untuk CV versi statis bisa menjalankan file:
+
+dynamic-resume.html
+
+---------------------------------------------------------------------------------
+Mohon maaf apabila hasilnya masih tergolong biasa saja jika dibandingkan para master :)
+Saya masih belajar, dan saya senang dalam waktu 5 hari saya bisa membuatnya terlihat seperti ini
